@@ -1,2 +1,2 @@
-clip_client
-clip_server
+clip_client==3.7.0
+clip_server==3.7.0
